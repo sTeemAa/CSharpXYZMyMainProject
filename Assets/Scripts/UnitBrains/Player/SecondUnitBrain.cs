@@ -23,7 +23,8 @@ namespace UnitBrains.Player
             if (GetTemperature() >= overheatTemperature)
             {
                 return;
-            } else
+            }
+            else
             {
                 for (int i = 0; i <= GetTemperature(); i++)
                 {
