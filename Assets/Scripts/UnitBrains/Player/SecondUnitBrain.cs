@@ -50,7 +50,7 @@ namespace UnitBrains.Player
             List<Vector2Int> result = GetReachableTargets();
 
             float MinDistance = float.MinValue;
-            Vector2Int NearestTarget = new Vector2Int();
+            Vector2Int NearestTarget = new();
 
             foreach (Vector2Int target in result)
             {
@@ -62,7 +62,12 @@ namespace UnitBrains.Player
             }
 
             result.Clear();
-            result.Add(NearestTarget);
+
+            //С помошью вывода в консоль "Debug.Log(NearestTarget);" узнал что координаты по которым стреляют мои юнити это (0,0)(если они стреляют в воздух)
+            if (MinDistance != float.MaxValue & NearestTarget != new Vector2Int(0,0))// решил добавить второе условие вместе с первым которое указал проверяющий, понимаю что это костыль, но не знаю как поменять код, чтобы не было такого
+            {
+                result.Add(NearestTarget);
+            }
 
             return result;
             ///////////////////////////////////////

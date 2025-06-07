@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\zloya\\CSharpXYZMyMainProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2110C211-A59F-A2DA-0CAF-A5CC2BB5105B}|Root.csproj|C:\\Users\\zloya\\CSharpXYZMyMainProject\\assets\\scripts\\unitbrains\\player\\secondunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2110C211-A59F-A2DA-0CAF-A5CC2BB5105B}|Root.csproj|c:\\users\\zloya\\csharpxyzmymainproject\\assets\\scripts\\unitbrains\\player\\secondunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2110C211-A59F-A2DA-0CAF-A5CC2BB5105B}|Root.csproj|solutionrelative:assets\\scripts\\unitbrains\\player\\secondunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2110C211-A59F-A2DA-0CAF-A5CC2BB5105B}|Root.csproj|c:\\users\\zloya\\csharpxyzmymainproject\\assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2110C211-A59F-A2DA-0CAF-A5CC2BB5105B}|Root.csproj|solutionrelative:assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnterPoint.cs",
-              "DocumentMoniker": "C:\\Users\\zloya\\CSharpXYZMyMainProject\\Assets\\Scripts\\EnterPoint.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnterPoint.cs",
-              "ToolTip": "C:\\Users\\zloya\\CSharpXYZMyMainProject\\Assets\\Scripts\\EnterPoint.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnterPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:27:54.506Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,7 +24,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\Player\\SecondUnitBrain.cs",
               "ToolTip": "C:\\Users\\zloya\\CSharpXYZMyMainProject\\Assets\\Scripts\\UnitBrains\\Player\\SecondUnitBrain.cs",
               "RelativeToolTip": "Assets\\Scripts\\UnitBrains\\Player\\SecondUnitBrain.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA6wAgAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T11:50:16.055Z",
               "EditorCaption": ""
